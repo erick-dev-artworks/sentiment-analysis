@@ -1,0 +1,19 @@
+{
+  "name": "sentiment-analyse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "diacritic": "0.0.2",
+    "mongodb": "^6.3.0",
+    "selenium-webdriver": "^4.16.0",
+    "sentiment": "^5.0.2",
+    "string": "^3.3.3"
+  }
+}
